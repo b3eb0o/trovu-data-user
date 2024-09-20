@@ -9,3 +9,4 @@ namespaces:
 # defaultKeyword: g 
 language: de
 country: de
+default_search: google
