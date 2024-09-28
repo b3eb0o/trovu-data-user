@@ -5,8 +5,7 @@ namespaces:
 - de
 - .de
 - github: .
-  name: my
-# defaultKeyword: g 
+  name: b3eb0o
+defaultKeyword: g 
 language: de
 country: de
-default_search: google
